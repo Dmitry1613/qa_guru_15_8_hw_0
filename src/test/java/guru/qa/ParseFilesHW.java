@@ -65,7 +65,7 @@ public class ParseFilesHW {
         }
     }
 
-    @DisplayName("Checking XLS-file from ZIP")
+    @DisplayName("Checking CSV-file from ZIP")
     @Test
     void zipCsvTest() throws Exception {
         ZipFile zipfile = new ZipFile(new File("src/test/resources/Archive_test.zip"));
