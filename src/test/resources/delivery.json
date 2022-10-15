@@ -1,0 +1,16 @@
+{
+  "deliveryNumber": 1488,
+  "inboundTime": "10.10.22 16:40:00",
+  "vendorName": "Nestle",
+  "warehouse": [
+    "DC01",
+    "DC02"
+  ],
+  "items": {
+    "amount": 30,
+    "price": 20.6,
+    "productId": 544331,
+    "productName": "Молочная смесь",
+    "isActive": true
+  }
+}
